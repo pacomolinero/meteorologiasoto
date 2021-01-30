@@ -7,6 +7,8 @@ A partir de enero de 2021 se recogen directamente en la estación meteorológica
 Ficheros que incluye
 
 aemtestract.sh para poder bajar los datos de colmenar viejo (la KEY está cambiada paraque no se use la mia)
+
 meteorología_soto.... Hoja de cálculo con los datos reales
+
 datoscolmenar.1 fichero json con los últimos datos de AEMT Colmenar Viejo (ahora 2021)
 
