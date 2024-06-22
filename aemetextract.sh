@@ -7,7 +7,6 @@
 set -e 
 set -o pipefail
 
-DOS_PUNTOS_URL=%3A
 FORMATO_FECHAS_API='+%Y-%m-%dT00%%3A00%%3A00UTC'
 OUT_FILE=datos.json
 
