@@ -1,4 +1,7 @@
 #!/bin/bash
+# Uso: ./aemetextract.sh [FECHA]
+# FECHA es una fecha en formato ISO 8601
+# Si no se especifica se usara la fecha actual
 
 # Aborta mision si un comando falla
 set -e 
