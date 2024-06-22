@@ -10,5 +10,5 @@ aemtestract.sh para poder bajar los datos de colmenar viejo (la KEY está cambia
 
 meteorología_soto.... Hoja de cálculo con los datos reales
 
-datoscolmenar.1 fichero json con los últimos datos de AEMT Colmenar Viejo (ahora 2021)
+datoscolmenar.1 fichero json con datos de AEMT Colmenar Viejo (ahora 2021)
 
